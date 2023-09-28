@@ -1,0 +1,7 @@
+C:\GitHub Project\C#\CustomException\CustomException\CustomException\bin\Debug\CustomException.exe.config
+C:\GitHub Project\C#\CustomException\CustomException\CustomException\bin\Debug\CustomException.exe
+C:\GitHub Project\C#\CustomException\CustomException\CustomException\bin\Debug\CustomException.pdb
+C:\GitHub Project\C#\CustomException\CustomException\CustomException\obj\Debug\CustomException.csproj.AssemblyReference.cache
+C:\GitHub Project\C#\CustomException\CustomException\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\CustomException\CustomException\CustomException\obj\Debug\CustomException.exe
+C:\GitHub Project\C#\CustomException\CustomException\CustomException\obj\Debug\CustomException.pdb
